@@ -6,6 +6,6 @@ It includes:
 -Android API / GUI.
 -C & c++ code for a microprocessor.
 -Some documentation.
--Eagle schematics for designed/build hardware.
+-Eegle schematics for designed/build hardware.
 
 This project should work on any android phone and it is tested on a Atmel Atmega8L. 
